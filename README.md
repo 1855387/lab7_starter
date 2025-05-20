@@ -1,4 +1,4 @@
-# Week 7 Lab + Answers below
+# Week 7 Lab + Answers below (Screenshot in screenshots folder!)
 
 ## Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.  
 
