@@ -1,5 +1,5 @@
 # Week 7 Lab + Answers below (Screenshot in screenshots folder!)
-
+- Charlie Zhu
 ## Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.  
 
 Within a Github action that runs whenever code is pushed, so that you can catch issues in an efficient and automated manner before code gets pushed.
